@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Solver/">
+    <file alias="Main.qml">/home/vadim/qtcProjects/Solver/Main.qml</file>
+  </qresource>
+</RCC>
+

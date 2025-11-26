@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Solver">
+    <file alias="qmldir">/home/vadim/qtcProjects/Solver/build/Desktop-Debug/Solver/qmldir</file>
+  </qresource>
+</RCC>
+

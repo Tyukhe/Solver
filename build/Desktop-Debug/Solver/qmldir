@@ -1,0 +1,6 @@
+module Solver
+typeinfo appSolver.qmltypes
+prefer :/qt/qml/Solver/
+Main 254.0 Main.qml
+depends QtQuick
+
